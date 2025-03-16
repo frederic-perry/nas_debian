@@ -1,4 +1,7 @@
 
+Ce document décrit l'installation et la configuration d'un système de stockage attaché au réseau (NAS) sous Debian 12, avec divers services comme sftp , webdav et leurs configuration.
+pour la completude nous documentons également une installation de webmin, open media vault et Sigma Nas.
+
 Projet
 
 Notre objectif principal est de mettre en place un serveur NAS robuste et
